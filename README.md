@@ -1,6 +1,6 @@
 # MOB Dataset
 
-##**Dataset Attributes**
+## **Dataset Attributes**
 videoID: YouTube video id
 startingTimeStamp:  starting timestamp (seconds) of clip relative to the original/published YouTube video
 endingTimeStamp:  ending timestamp (seconds) of clip relative to the original/published YouTube video 
