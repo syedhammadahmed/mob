@@ -36,3 +36,9 @@ The dataset can be found [here](https://github.com/syedhammadahmed/mob/blob/main
 
 **audioClass:** Ground Truth Label based on audio features - Malicious (1) or Benign (0)
 
+
+If you find our work useful in your research, please cite:
+...
+ @article{Ahmed_Khan_Qaisar_Sukthankar, title={Malicious or Benign: Towards Effective Content Moderation for Children’s Videos}, 
+ author={Ahmed, Syed Hammad and Khan, Muhammad Junaid and Qaisar, Umer and Sukthankar, Gita}, language={en} }
+...
