@@ -34,5 +34,3 @@
 
 **audioClass:** Ground Truth Label based on audio features - Malicious (1) or Benign (0)
 
-![image](https://user-images.githubusercontent.com/17142671/229564108-310d4faa-35c2-4445-9e44-9e52c640a25b.png)
-
