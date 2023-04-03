@@ -1,6 +1,6 @@
 # MOB Dataset
 
-The dataset can be found [here]((https://github.com/syedhammadahmed/mob/blob/main/mob.csv).
+The dataset can be found [here](https://github.com/syedhammadahmed/mob/blob/main/mob.csv).
 
 ## **Dataset Attributes**
 
