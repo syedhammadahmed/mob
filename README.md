@@ -42,6 +42,11 @@ The dataset can be found [here](https://github.com/syedhammadahmed/mob/blob/main
 
 If you find our work useful in your research, please cite:
 ```
- @article{mob2023IAL, title={Malicious or Benign: Towards Effective Content Moderation for Children’s Videos}, 
- author={Ahmed, Syed Hammad and Khan, Muhammad Junaid and Qaisar, Umer and Sukthankar, Gita}, year={2023}}
+ @inproceedings{ahmed2023malicious,
+  title={Malicious or Benign? Towards Effective Content Moderation for Children's Videos},
+  author={Ahmed, Syed Hammad and Khan, Muhammad Junaid and Qaisar, Hafiz Muhammad Umer and Sukthankar, Gita},
+  booktitle={The International FLAIRS Conference Proceedings},
+  volume={36},
+  year={2023}
+}
 ```
