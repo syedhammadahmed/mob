@@ -1,7 +1,8 @@
 # MOB Dataset
 
 The dataset frames can be found [here](https://drive.google.com/file/d/1Zjib-WaF5hk3wVrj5eW6ewdpMFcn45Wo/view?usp=drive_link).
-The dataset metadata can be found [here](https://github.com/syedhammadahmed/mob/blob/main/mob.csv).
+
+The dataset annotation labels can be found [here](https://github.com/syedhammadahmed/mob/blob/main/mob.csv).
 
 ## **Dataset Attributes**
 
