@@ -1,5 +1,8 @@
 # Malicious or Benign? Towards Effective Content Moderation for Children's Videos [FLAIRS '36]
 
+[Malicious or Benign? Towards Effective Content Moderation for Children's Videos]([https://arxiv.org/abs/2305.15551](https://journals.flvc.org/FLAIRS/article/view/133315)
+[Syed Hammad Ahmed](https://scholar.google.com/citations?user=CjPsZXwAAAAJ&hl=en&oi=ao), [Muhammad Junaid Khan](https://scholar.google.com/citations?user=GnogxwoAAAAJ&hl=en&oi=ao), H. M. Umer Qaisar, [Gita Sukthankar](https://scholar.google.com/citations?user=087P6LMAAAAJ&hl=en)
+
 The dataset frames can be found [here](https://drive.google.com/file/d/1Zjib-WaF5hk3wVrj5eW6ewdpMFcn45Wo/view?usp=drive_link).
 
 The dataset annotation labels can be found [here](https://github.com/syedhammadahmed/mob/blob/main/mob.csv).
