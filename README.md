@@ -1,4 +1,4 @@
-# MOB Dataset
+# Malicious or Benign? Towards Effective Content Moderation for Children's Videos [FLAIRS '36]
 
 The dataset frames can be found [here](https://drive.google.com/file/d/1Zjib-WaF5hk3wVrj5eW6ewdpMFcn45Wo/view?usp=drive_link).
 
